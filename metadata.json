@@ -7,7 +7,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/usimussd-source/mike/main/config.json",
+        "uri": "https://raw.githubusercontent.com/usimussd-source/mike/main/metadata.json",
         "type": "image/png"
       }
     ],
