@@ -1,0 +1,16 @@
+{
+  "name": "mike",
+  "symbol": "MYT",
+  "description": "mike TOKEN",
+  "image": "https://raw.githubusercontent.com/usimussd-source/mike/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/usimussd-source/mike/main/config.json",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
