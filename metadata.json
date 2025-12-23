@@ -1,7 +1,8 @@
 {
-  "name": "mike",
-  "symbol": "MYT",
-  "description": "mike TOKEN",
+  "name": "ROTHCHAIN",
+  "symbol": "RCN",
+  "description": "ROTHCHAIN 是一个去中心化的资本调度协议，专注于链上资金流向与高净值地址行为分析。
+我们相信，真正的机会永远先流向看不见的资本。",
   "image": "https://raw.githubusercontent.com/usimussd-source/mike/main/logo.png",
   "attributes": [],
   "properties": {
